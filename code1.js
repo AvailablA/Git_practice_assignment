@@ -6,7 +6,7 @@ function checkPalindrome(N, str) {
     }
     let rev="";
     for(let j=bag.length-1; j >= 0; j--){
-        rev += bag[i]
+        rev += bag[j]
     }
     
     if(rev == bag){

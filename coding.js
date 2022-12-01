@@ -10,4 +10,4 @@ function identifyPrime(num) {
     }else{
         console.log("No");
     }
-};
+}
